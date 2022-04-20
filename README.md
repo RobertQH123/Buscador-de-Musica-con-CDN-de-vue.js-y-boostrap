@@ -1,4 +1,4 @@
 # Buscador de Musica
 ## CDN (vue.js, boostrap)
 
-[![portvue.png](https://i.postimg.cc/BQYXXb36/portvue.png)](https://postimg.cc/0bS848bR)
+[![portvue.jpg](https://i.postimg.cc/nrJgT29h/portvue.jpg)](https://postimg.cc/vg00ZWvJ)
